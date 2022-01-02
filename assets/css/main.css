@@ -25,7 +25,7 @@
     line-height: 50px;
 
     background-color: none;
-    margin-top: -6px;
+    margin-top: -5px;
     margin-bottom: 10px;
 }
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -72,7 +72,7 @@
 		color: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
-		font-weight: 300 !important;
+		font-weight: 200 !important;
 		letter-spacing: -0.025em;
 		line-height: 1.75em;
 	}
@@ -539,10 +539,10 @@
 				position: relative;
 				display: inline-block;
 				text-align: center;
-				top: -5em;
+				top: -4em;
 				/*right: -25em;*/
-				left:2em;
-				width: 4em;
+				left:0em;
+				width: 5em;
 			}
 			
 			#header top a{
