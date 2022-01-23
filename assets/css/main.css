@@ -1050,7 +1050,21 @@
 
 			#header nav a:active {
 				font-size: 1em;
-			} }
+			} 
+			
+			#header top li{
+				font-size: 0.8 em;
+				/*font-weight: 100;*/
+				opacity: 0.75;
+				position: relative;
+				display: inline-block;
+				text-align: center;
+				top: -4em;
+				/*right: -25em;*/
+				left:0em;
+				width: 3.2em;
+		}
+		}
 
 /* Mobile (Portrait) */
 
@@ -1132,4 +1146,6 @@
 
 		#header nav {
 			padding: 0 1em;
-		} }
+		} 
+		
+		}
